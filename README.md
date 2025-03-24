@@ -14,7 +14,7 @@ Breadly is a minimalist, user-friendly app designed to help bakers manage their 
 ---
 
 ## 📂 Project Structure
-```bash
+
 Breadly/
 │
 ├── breadly_app.py             # Main Streamlit application file
