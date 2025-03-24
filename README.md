@@ -17,10 +17,10 @@ Breadly is a minimalist, user-friendly app designed to help bakers manage their 
 
 Breadly/\
 │\
-├── breadly_app.py             # Main Streamlit application file\
-├── requirements.txt            # Python dependencies list\
-├── README.md                   # Project description & documentation (This file)\
-├── .gitignore                  # Files/folders to exclude from version control
+├── breadly_app.py              ''' # Main Streamlit application file\
+├── requirements.txt            ''' # Python dependencies list\
+├── README.md                   ''' # Project description & documentation (This file)\
+├── .gitignore                  ''' # Files/folders to exclude from version control
 
 ---
 
