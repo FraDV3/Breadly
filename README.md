@@ -31,15 +31,15 @@ Breadly/
 git clone git@github.com:FraDV3/Breadly.git
 cd Breadly
 
-## Set up a Virtual Environment:
+2. **Set up a Virtual Environment:**
 
 python3 -m venv env
 source env/bin/activate   # On Windows, use: .\env\Scripts\activate
 
-## Install Dependencies:
+3. **Install Dependencies:**
 
 pip install -r requirements.txt
 
-## Run the App:
+4. **Run the App:**
 
 streamlit run breadly_app.py
