@@ -14,12 +14,15 @@ Breadly is a minimalist, user-friendly app designed to help bakers manage their 
 ---
 
 ## 📁 Breadly Project Structure
+
+'''
 Breadly/  
 ├── breadly_app.py
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
 ├── .gitignore
+'''
 
 ---
 
