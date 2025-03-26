@@ -21,7 +21,8 @@ Breadly/
 ├── requirements.txt  
 ├── LICENSE  
 ├── README.md  
-├── .gitignore```
+├── .gitignore
+```
 
 ---
 
