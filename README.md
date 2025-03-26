@@ -15,14 +15,13 @@ Breadly is a minimalist, user-friendly app designed to help bakers manage their 
 
 ## 📁 Breadly Project Structure
 
-'''
+```plaintext
 Breadly/  
-├── breadly_app.py
-├── requirements.txt
-├── LICENSE
-├── README.md
-├── .gitignore
-'''
+├── breadly_app.py         # Main Streamlit application file  
+├── requirements.txt        # Python dependencies list (we already created this)  
+├── LICENSE                 # Your license file  
+├── README.md               # Your project description  
+├── .gitignore              # Files to exclude from Git tracking  
 
 ---
 
