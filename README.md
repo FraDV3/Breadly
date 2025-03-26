@@ -13,33 +13,36 @@ Breadly is a minimalist, user-friendly app designed to help bakers manage their 
 
 ---
 
-## 📂 Project Structure
+## 📁 Breadly Project Structure
 
-Breadly/
-│
-├── breadly_app.py             # Main Streamlit application file
-├── requirements.txt            # Python dependencies list
-├── README.md                   # Project description & documentation (This file)
-├── .gitignore                  # Files/folders to exclude from version control
+```plaintext
+Breadly/  
+├── breadly_app.py  
+├── requirements.txt  
+├── LICENSE  
+├── README.md  
+├── .gitignore
+```
 
 ---
 
 ## 📦 Installation & Setup
 
 1. **Clone the Repository:**
-```bash
+```plaintext
 git clone git@github.com:FraDV3/Breadly.git
 cd Breadly
-
+```
 2. **Set up a Virtual Environment:**
-
+```plaintext
 python3 -m venv env
 source env/bin/activate   # On Windows, use: .\env\Scripts\activate
-
+```
 3. **Install Dependencies:**
-
+```plaintext
 pip install -r requirements.txt
-
+```
 4. **Run the App:**
-
+```plaintext
 streamlit run breadly_app.py
+```
