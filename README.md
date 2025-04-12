@@ -17,11 +17,16 @@ Breadly is a minimalist, user-friendly app designed to help bakers manage their 
 
 ```plaintext
 Breadly/  
-├── breadly_app.py  
-├── requirements.txt  
-├── LICENSE  
-├── README.md  
+├── public/                # Static files and index.html
+├── src/                   # App source code (components, pages, styles)
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
 ├── .gitignore
+├── package.json
+├── README.md
+└── LICENSE
 ```
 
 ---
