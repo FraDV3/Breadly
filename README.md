@@ -1,6 +1,6 @@
 # 🍞 Breadly - Your Sourdough Companion
 
-Breadly is a minimalist, user-friendly app designed to help bakers manage their sourdough starters, troubleshoot baking issues, and schedule their perfect baking timelines. Built with Python & Streamlit.
+Breadly is a minimalist, user-friendly app designed to help bakers manage their sourdough starters, troubleshoot baking issues, and schedule their perfect baking timelines. Currently being rewritten in JavaScript using React.
 
 ---
 
@@ -33,16 +33,11 @@ Breadly/
 git clone git@github.com:FraDV3/Breadly.git
 cd Breadly
 ```
-2. **Set up a Virtual Environment:**
-```plaintext
-python3 -m venv env
-source env/bin/activate   # On Windows, use: .\env\Scripts\activate
+2. **Install Dependencies:**
+```bash
+npm install
 ```
-3. **Install Dependencies:**
-```plaintext
-pip install -r requirements.txt
-```
-4. **Run the App:**
-```plaintext
-streamlit run breadly_app.py
+3. **Run the App:**
+```bash
+npm start
 ```
