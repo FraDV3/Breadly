@@ -1,4 +1,6 @@
 node_modules
+*.sh
+*.command
 
 # Node / React
 node_modules/
